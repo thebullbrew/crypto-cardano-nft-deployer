@@ -1,0 +1,17 @@
+{
+  "721": {
+    "<policy_id>": {
+      "<asset_name>": {
+        "attributes": {
+          "Background": "Forest",
+          "Eyes": "Amber"
+        },
+        "description": "A professional NFT minted on Cardano.",
+        "image": "ipfs://QmYourImageHashHere/1.png",
+        "mediaType": "image/png",
+        "name": "My NFT #1"
+      }
+    },
+    "version": "1.0"
+  }
+}

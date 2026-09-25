@@ -1,0 +1,8 @@
+name = "thebullbrew/one-shot-policy"
+version = "0.1.0"
+description = "One-shot Plutus minting policy for the Cardano NFT deployer: mint exactly once, burn anytime."
+compiler = "v1.1.0"
+license = "MIT"
+
+[dependencies]
+aiken-lang/stdlib = "v2.2.0"
