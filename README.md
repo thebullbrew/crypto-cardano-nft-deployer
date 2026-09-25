@@ -1,5 +1,7 @@
 # Cardano NFT Deployer
 
+![banner](assets/banner.jpg)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Cardano](https://img.shields.io/badge/Cardano-Preprod%20%7C%20Mainnet-0033AD.svg)](https://cardano.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6.svg)](https://www.typescriptlang.org)
