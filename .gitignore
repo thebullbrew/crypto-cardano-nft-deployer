@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+# Aiken build outputs (rebuilt with `aiken build`)
+validators/build/
+validators/plutus.json
